@@ -327,3 +327,15 @@ Add = 8
 */
  return 0;
 }
+
+/*
+
+echo "# for_loops_c" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anvpeace/for_loops_c.git
+git push -u origin main
+
+*/
